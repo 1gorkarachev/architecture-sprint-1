@@ -24,7 +24,7 @@ $ cd frontend/user/
 $ npm install
 $ npm run start
 ```
-- для запуска микрофронта c карточек мест
+- для запуска микрофронта карточек мест
 ```
 $ cd frontend/place/
 $ npm install
