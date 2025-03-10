@@ -37,3 +37,5 @@ $ npm install
 $ npm run start
 ```
 Далее перейти по адресу http://localhost:3000/
+
+Ссылка на задание №2 https://drive.google.com/file/d/1oRd4irUcGhmh28M8hhsMz_QloLdyHA6m/view?usp=sharing
